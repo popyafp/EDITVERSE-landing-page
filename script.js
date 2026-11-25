@@ -1,7 +1,7 @@
-// ===== EDIT BAGIAN INI =====
-const WA_NUMBER = "6285859068437";   // 
-const INSTAGRAM_URL = "https://www.instagram.com/editverse_id?bqrl=MXRjMzF4YWJ2OWd0OA==";
-// ===========================
+
+const WA_NUMBER = "6285859068437";
+const INSTAGRAM_URL = "https://www.instagram.com/editverse_id/";
+
 
 document.addEventListener("DOMContentLoaded", () => {
 
