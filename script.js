@@ -1,6 +1,6 @@
 // ===== EDIT BAGIAN INI =====
-const WA_NUMBER = "6281234567890";   // format 62..., tanpa + dan tanpa 0 di depan
-const INSTAGRAM_URL = "https://instagram.com/username_kamu";
+const WA_NUMBER = "6285859068437";   // 
+const INSTAGRAM_URL = "https://www.instagram.com/editverse_id?bqrl=MXRjMzF4YWJ2OWd0OA==";
 // ===========================
 
 document.addEventListener("DOMContentLoaded", () => {
